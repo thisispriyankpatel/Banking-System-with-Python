@@ -4,7 +4,7 @@ from random import randrange
 from secrets import randbelow
 from time import sleep
 from typing import Dict, Tuple, Callable, ClassVar
-
+# auther Priyank Patel
 
 class Menu:
     MENU: ClassVar[Tuple[
